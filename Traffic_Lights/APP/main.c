@@ -1,9 +1,9 @@
 /**********************************************************************/
-/* Author               : 	Mohanad Khaled Hassan                     */
-/* Origin Date          : 	05/10/2023                                */
-/* Layer                : 	APP Layer                 	   		      */
-/* SWC                  : 	Traffic Lights application     		      */
-/* Version              : 	1.0.0                          			  */
+/* Author               : 	Mohanad Khaled Hassan                 */
+/* Origin Date          : 	05/10/2023                            */
+/* Layer                : 	APP Layer                 	      */
+/* SWC                  : 	Traffic Lights application     	      */
+/* Version              : 	1.0.0                          	      */
 /**********************************************************************/
 #include <avr/io.h>
 #include <util/delay.h>
